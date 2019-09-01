@@ -16,3 +16,4 @@
 * https://www.instructables.com/id/Control-a-Furby-with-Arduino-or-other-microcontrol/
 * www.evilfurby.com
 * https://www.robotshop.com/community/robots/show/hurby-toy
+* http://www.techdose.com/projects/Furby-Hacking-101/260/page1.html
