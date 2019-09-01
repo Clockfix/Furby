@@ -17,3 +17,6 @@
 * www.evilfurby.com
 * https://www.robotshop.com/community/robots/show/hurby-toy
 * http://www.techdose.com/projects/Furby-Hacking-101/260/page1.html
+* http://www.phobe.com/furby/auto1.html
+* http://alumni.media.mit.edu/~kelly/Furby/anatomy.htm
+
