@@ -15,3 +15,4 @@
 * https://mncoppola.files.wordpress.com/2014/07/performing-open-heart-surgery-on-a-furby-recon-2014.pdf
 * https://www.instructables.com/id/Control-a-Furby-with-Arduino-or-other-microcontrol/
 * www.evilfurby.com
+* https://www.robotshop.com/community/robots/show/hurby-toy
